@@ -17,8 +17,8 @@ this repo records the latest paper in Computer Vision
 1802.10019    Simultaneous Traffic Sign Detection and Boundary Estimation using Convolutional Neural Network
 1802.10062    CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes
 
-              Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
-              Unsupervised Learning of Depth and Ego-Motion from Video. CVPR 2017.
+Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
+Unsupervised Learning of Depth and Ego-Motion from Video. CVPR 2017.
 1802.05522    Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints
 i-RevNet.pdf    
 1802.07789    Semantic Segmentation Refinement by Monte Carlo Region Growing of High Confidence Detections
