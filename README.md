@@ -74,3 +74,10 @@ Learning to Prune Filters in Convolutional Neural Networks</br>
 
 1712.09913    VISUALIZING THE LOSS LANDSCAPE OF NEURAL NETS</br>
 1712.09665    Adversarial Patch</br>
+
+1712.04741    Mathematics of Deep Learning </br>
+1712.04569    Im2Pano3D: Extrapolating 360◦ Structure and Semantics Beyond the Field of View</br>　
+1712.04621    The Effectiveness of Data Augmentation in Image Classification using Deep Learning</br>
+
+
+
