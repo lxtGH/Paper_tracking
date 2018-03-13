@@ -2,7 +2,63 @@
 this repo records the latest paper in Computer Vision</br>
 
 
+
 ## latest paper on arxiv
+
+
+
+
+
+
+1803.03577    Intentions of Vulnerable Road Users – Detection and Forecasting by Means of Machine Learning
+1803.03487    Cooperative Starting Movement Detection of Cyclists Using Convolutional Neural Networks and a Boosted Stacking Ensemble
+1803.02242    Early Start Intention Detection of Cyclists Using Motion History Images and a Deep Residual Network
+
+1803.03347    Tracking by Prediction: A Deep Generative Model for Mutli-Person localisation and Tracking
+
+1803.02988    Rethinking Feature Distribution for Loss Functions in Image Classification
+
+1803.03310    Generalization in Metric Learning: Should the Embedding Layer be the Embedding Layer?
+
+1803.02784    Fast and Accurate Semantic Mapping through Geometric-based Incremental Segmentation
+
+1803.02758    RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY
+
+1803.02612    Single View Stereo Matching
+
+1803.02403    PI-VIO: Robust and Efficient Stereo Visual Inertial Odometry using Points and Lines
+
+
+
+
+
+1612.04770    Detect, Replace, Refine: Deep Structured Prediction For Pixel Wise Labeling
+1802.10367    Deep-6DPose: Recovering 6D Object Pose　from a Single RGB Image
+
+1802.10171    Tell Me Where to Look: Guided Attention Inference Network
+
+1802.10204    IMPROVED EXPLAINABILITY OF CAPSULE NETWORKS: RELEVANCE PATH BY　AGREEMENT
+
+
+1803.00197    TSSD: Temporal Single-Shot Detector Based on Attention and LSTM　for Robotic Intelligent Perception
+
+1803.00387    A General Pipeline for 3D Detection of Vehicles
+
+1803.00388    Learning Filter Scale and Orientation In　CNNs
+
+1803.00455    LCR-Net++: Multi-person 2D and 3D Pose　Detection in Natural Images
+
+1803.00557    The 2018 DAVIS Challenge on　Video Object Segmentation
+
+1803.00653    SEMI-PARAMETRIC TOPOLOGICAL MEMORY　FOR NAVIGATION
+
+1803.00788    Automated Map Reading: Image Based Localisation in　2-D Maps Using Binary Semantic Descriptors
+
+1803.00891    Monocular Depth Estimation using Multi-Scale　Continuous CRFs as Sequential Deep Networks
+
+
+
+
 
 1802.07845    Detecting Small, Densely Distributed Objects with Filter-Amplifier Networks and Loss Boosting </br>
 1802.09232    2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning </br>
