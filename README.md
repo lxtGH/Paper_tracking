@@ -5,7 +5,30 @@ this repo records the latest paper in Computer Vision</br>
 
 ## latest paper on arxiv
 
+1712.08416    On the Integration of Optical Flow and Action Recognition
 
+1803.08225    PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model
+1803.08190    Deep Pose Consensus Networks
+
+1803.08018    Monocular Depth Estimation by Learning from Heterogeneous Datasets
+
+1803.07742    Fast Semantic Segmentation on Video Using Motion Vector-Based Feature Interpolation
+
+1803.07728    UNSUPERVISED REPRESENTATION LEARNING BY PREDICTING IMAGE ROTATIONS
+
+1803.07349    Progressive Structure from Motion
+
+1803.07231    Hierarchical Metric Learning and Matching for 2D and 3D Geometric Correspondences
+
+1803.06508    MergeNet: A Deep Net Architecture for Small Obstacle Discovery
+
+1803.08834    What Do We Understand About Convolutional Networks?
+
+1803.08805    Geometric and Physical Constraints for Head Plane Crowd Density Estimation in Videos
+
+1803.08679    Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking
+
+1803.08673    Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps with Accurate Object Boundaries
 
 
 
